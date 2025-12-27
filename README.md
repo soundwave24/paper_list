@@ -16,8 +16,20 @@ Paper of interest
 - [ASE](https://ase-conference.org/)
 
 ## Robotics
-- [IROS](https://www.iros.org/)
+- [IROS](https://www.iros25.org/)
 - [ICRA](https://www.icra2024.org/)
+
+## Network and Distributed Systems
+- [SIGCOMM](https://conferences.sigcomm.org/sigcomm/2024/)
+- [NSDI](https://www.usenix.org/conference/nsdi25)
+- [MobiCom](https://www.sigmobile.org/mobicom/2024/)
+- [INFOCOM](https://infocom2024.ieee-infocom.org/)
+
+## Cloud Computing
+- [SoCC](https://www.usenix.org/conference/socc24)
+- [SC](https://sc24.supercomputing.org/)
+- [HPDC](https://hpdc.acm.org/2024/)
+- [ICAC](https://icac24.org/)
 
 ## AI
 - [NeurIPS](https://neurips.cc/)
